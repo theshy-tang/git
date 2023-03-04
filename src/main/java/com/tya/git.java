@@ -11,5 +11,6 @@ public class git {
         System.out.println("aaaaaaaaa");
         System.out.println("aaaaaaaaa2");
         System.out.println("aaaaaaaaa3");
+        System.out.println("hot-fix test");
     }
 }
