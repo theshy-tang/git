@@ -9,5 +9,6 @@ package com.tya;
 public class git {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaa");
+        System.out.println("aaaaaaaaa2");
     }
 }
